@@ -18,7 +18,7 @@ const Connect: React.FC = () => {
       {/* Text Section */}
       <div className="text-center lg:text-left lg:w-1/2">
         <h2 className="text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl">
-          Let's Create <br /> Magic Together.
+          Let&apos;s Create <br /> Magic Together.
         </h2>
         <p className="mt-4 text-lg text-gray-400">
           If you appreciate my work or would like to connect, feel free to

@@ -103,6 +103,7 @@
 
 import { cn } from "@/lib/utils";
 import Marquee from "./ui/marquee";
+import Image from "next/image";
 
 const tools = [
   {
@@ -136,7 +137,7 @@ const ReviewCard = ({ img }: { img: string }) => {
         "dark:border-gray-50/[.1] dark:bg-gray-50/[.10] dark:hover:bg-gray-50/[.15]"
       )}
     >
-      <img
+      <Image
         className="object-contain w-full h-full"
         alt="Software Logo"
         src={img}

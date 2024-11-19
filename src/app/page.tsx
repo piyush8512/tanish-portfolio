@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from "react";
 import Preloader from "@/components/Preloader";
 import Profile from "@/components/Profile";  // Ensure Profile is correctly exported
-import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
+
 import { TextGenerateEffectDemo } from "@/components/TextGenerateEffectDemo";
 import Softwaretext from "@/components/Softwaretext";
 import { MarqueeDemo } from "@/components/MarqueeDemo";

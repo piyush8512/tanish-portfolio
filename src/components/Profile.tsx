@@ -49,6 +49,7 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
 
 const Profile: React.FC = () => {
   return (
@@ -75,7 +76,7 @@ const Profile: React.FC = () => {
         <div className="relative flex justify-center items-center">
           <div className="relative w-[200px] h-[200px] sm:w-[300px] sm:h-[300px] lg:w-[400px] lg:h-[400px] rounded-full overflow-hidden">
             <div className="absolute inset-0 rounded-full bg-gradient-to-r from-orange-500 to-pink-500 animate-pulse"></div>
-            <img
+            <Image
               src="/profile.png"
               alt="Profile"
               className="relative z-10 rounded-full w-full h-full object-cover border-4 border-black"

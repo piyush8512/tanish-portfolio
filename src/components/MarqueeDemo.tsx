@@ -116,7 +116,7 @@ const tools = [
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/768px-Adobe_After_Effects_CC_icon.svg.png?20210519030120", // Adobe After Effects
   },
   {
-    img: "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg", // Figma
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436", // Figma
   },
   {
     img: "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg", // Adobe Photoshop

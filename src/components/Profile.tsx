@@ -68,7 +68,7 @@ const Profile: React.FC = () => {
             New Delhi, India
           </p>
           <p className="text-green-500 text-sm sm:text-base">
-            ● Available for a full-time position
+            ● Available   
           </p>
         </div>
 

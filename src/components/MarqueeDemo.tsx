@@ -138,10 +138,13 @@ const ReviewCard = ({ img }: { img: string }) => {
       )}
     >
       <Image
-        className="object-contain w-full h-full"
-        alt="Software Logo"
-        src={img}
-      />
+  className="object-contain"
+  alt="Software Logo"
+  src={img}
+  width={500} // Set the desired width
+  height={300} // Set the desired height
+/>
+
     </figure>
   );
 };

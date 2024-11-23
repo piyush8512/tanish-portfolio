@@ -8,6 +8,7 @@ import { TextGenerateEffectDemo } from "@/components/TextGenerateEffectDemo";
 import Softwaretext from "@/components/Softwaretext";
 import { MarqueeDemo } from "@/components/MarqueeDemo";
 import Connect from "@/components/Connect";
+import { Experince } from "@/components/Experince";
        // Ensure Text is correctly exported
 
 export default function Home() {
@@ -28,7 +29,9 @@ export default function Home() {
           <TextGenerateEffectDemo/>
           <Softwaretext/>
           <MarqueeDemo/>
-         <Connect/>
+          <Experince/>
+          <Connect/>
+          
           
             
         </>

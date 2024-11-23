@@ -11,7 +11,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
-    domains: ['upload.wikimedia.org'], // Add the allowed image domains here
+    domains: ['upload.wikimedia.org','assets.aceternity.com'], // Add the allowed image domains here
   },
 };
 
